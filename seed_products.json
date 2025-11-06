@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "prod_sample_1",
+    "title": "Natural Body Wave Wig - 18 inch",
+    "slug": "natural-body-wave-18",
+    "description": "Soft natural body wave, premium human hair.",
+    "price": 899.0,
+    "variants": [
+      {
+        "id": "v1",
+        "name": "18 inch",
+        "sku": "NBW-18",
+        "stock": 10
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/600x600.png?text=Body+Wave+18"
+    ],
+    "categories": [
+      "wigs",
+      "body-wave"
+    ]
+  },
+  {
+    "_id": "prod_sample_2",
+    "title": "Straight Lace Front Wig - 16 inch",
+    "slug": "straight-lacefront-16",
+    "description": "Sleek straight lace front for a flawless hairline.",
+    "price": 749.0,
+    "variants": [
+      {
+        "id": "v1",
+        "name": "16 inch",
+        "sku": "SLF-16",
+        "stock": 8
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/600x600.png?text=Straight+16"
+    ],
+    "categories": [
+      "wigs",
+      "straight"
+    ]
+  }
+]
